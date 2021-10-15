@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProductCatalog_v2021</string>
+
+    <string name="editTextName">Enter Name</string>
+    <string name="editTextPrice">Enter Price</string>
+    <string name="addButtonName">Add Product</string>
+    <string name="textViewName">Products</string>
+
+
+</resources>
